@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BMI/BMI.iml" filepath="$PROJECT_DIR$/BMI/BMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Bai1.iml" filepath="$PROJECT_DIR$/.idea/Bai1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello/Hello.iml" filepath="$PROJECT_DIR$/Hello/Hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/Helloword/Helloword.iml" filepath="$PROJECT_DIR$/Helloword/Helloword.iml" />
       <module fileurl="file://$PROJECT_DIR$/dayofmonth/dayofmonth.iml" filepath="$PROJECT_DIR$/dayofmonth/dayofmonth.iml" />
       <module fileurl="file://$PROJECT_DIR$/leap-year/leap-year.iml" filepath="$PROJECT_DIR$/leap-year/leap-year.iml" />
